@@ -1,0 +1,31 @@
+_repo: Jethro-Wood-Inventor-of-the-Modern-Plow.--13-Great-Invent_40888
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40888-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gilbert, Frank
+    alias: Gilbert, Franklin Warner
+    birthdate: 1839
+    deathdate: 1899
+    gutenberg_agent_id: '40879'
+    url: http://www.gutenberg.org/2009/agents/40879
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40888'
+  lccn: agr10001776
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Plows'
+- !lcsh 'Wood, Jethro, 1774-1834'
+title: "Jethro Wood, Inventor of the Modern Plow.\r\nA Brief Account of His Life,\
+  \ Services, and Trials; Together with Facts Subsequent to his Death, and Incident\
+  \ to His Great Invention"
+url: http://www.gutenberg.org/ebooks/40888
